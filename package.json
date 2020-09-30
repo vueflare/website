@@ -1,0 +1,19 @@
+{
+  "name": "vueflare-docs",
+  "version": "0.0.1",
+  "description": "This is the main documentation website for VueFlare",
+  "main": "index.js",
+  "authors": {
+    "name": "Valentin Vieriu",
+    "email": "vueflare@gmail.com"
+  },
+  "repository": "https://github.com/vueflare/docs/VueFlare Docs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
