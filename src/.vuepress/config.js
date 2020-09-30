@@ -43,7 +43,7 @@ module.exports = {
       // },
       {
         text: 'GitHub',
-        link: 'https://github.com/vueflare/vueflare'
+        link: 'https://github.com/vueflare/website'
       }
     ],
     sidebar: {
