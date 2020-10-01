@@ -44,6 +44,10 @@ module.exports = {
       {
         text: 'GitHub',
         link: 'https://github.com/vueflare/website'
+      },
+      {
+        text: 'Discord',
+        link: 'https://discord.gg/GyvtdqG'
       }
     ],
     sidebar: {
